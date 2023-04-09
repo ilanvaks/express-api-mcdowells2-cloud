@@ -12,5 +12,4 @@ Created an express framework connecting to firebase and seeing the results in th
 1. Connected to an Express Framework 
 2. Connected to Google firebase 
 
-![alt text](images/your-image-file-name.extension)
- https://www.slashfilm.com/img/gallery/lol-coming-to-america-mcdowells-restaurant-is-real/intro-1629906972.jpg
+![screen shot](https://www.slashfilm.com/img/gallery/lol-coming-to-america-mcdowells-restaurant-is-real/intro-1629906972.jpg)
